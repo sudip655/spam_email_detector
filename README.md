@@ -90,6 +90,12 @@ python -m venv .venv
 
 ```bash
 .\.venv\Scripts\python.exe src/predict.py
-```
+``` 
+
 
 Type or paste any email text / SMS message when prompted to receive instant `SPAM` or `HAM` prediction along with probability score. Type `quit` to exit.
+
+
+
+MODEL PREPARED BY: SUDIP PANDEY HEHEHEH
+
